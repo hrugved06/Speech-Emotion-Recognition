@@ -1,0 +1,22 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from pathlib import Path
+from scipy.io import wavfile
+import os.path
+import IPython.display
+import seaborn as sns
+import librosa
+import librosa.display
+import soundfile
+
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler, LabelEncoder
+from sklearn.metrics import confusion_matrix
+
+import tensorflow as tf
+from tensorflow.keras import utils
+from keras.models import Sequential
+from keras.layers import Dense, Dropout, Activation, Conv1D, MaxPooling1D, Flatten, BatchNormalization
+from keras import optimizers
+from sklearn.metrics import classification_report
