@@ -8,21 +8,21 @@ Speech is the most natural way of expressing ourselves as humans. It is only nat
 
 ## Examples of Audio Samples
 
-- **Happy** </br>
-    ![Happy Sample](https://github.com/hrugved06/Speech-Emotion-Recognition/blob/main/assets/happy.jpeg) </br>
-- **Fear** </br>
-    ![Fear Sample](https://github.com/hrugved06/Speech-Emotion-Recognition/blob/main/assets/fear.jpeg) </br>
-- **Neutral** </br>
-![Neutral Sample](https://github.com/hrugved06/Speech-Emotion-Recognition/blob/main/assets/neutral.jpeg) </br>
-- **Anger** </br>
-![Anger Sample](https://github.com/hrugved06/Speech-Emotion-Recognition/blob/main/assets/anger.jpeg) </br>
-- **Disgust** </br>
-![Disgust Sample](https://github.com/hrugved06/Speech-Emotion-Recognition/blob/main/assets/disgust.jpeg) </br>
-- **Sad** </br>
-![Sad Sample](https://github.com/hrugved06/Speech-Emotion-Recognition/blob/main/assets/sad.jpeg) </br>
+- **Happy 😄:** </br>
+    ![Happy Sample](https://github.com/hrugved06/Speech-Emotion-Recognition/blob/main/assets/happy.jpeg) </br></br>
+- **Fear 😨:** </br>
+    ![Fear Sample](https://github.com/hrugved06/Speech-Emotion-Recognition/blob/main/assets/fear.jpeg) </br></br>
+- **Neutral 😐:** </br>
+![Neutral Sample](https://github.com/hrugved06/Speech-Emotion-Recognition/blob/main/assets/neutral.jpeg) </br></br>
+- **Anger 😡:** </br>
+![Anger Sample](https://github.com/hrugved06/Speech-Emotion-Recognition/blob/main/assets/anger.jpeg) </br></br>
+- **Disgust 🥴:** </br>
+![Disgust Sample](https://github.com/hrugved06/Speech-Emotion-Recognition/blob/main/assets/disgust.jpeg) </br></br>
+- **Sad ☹️:** </br>
+![Sad Sample](https://github.com/hrugved06/Speech-Emotion-Recognition/blob/main/assets/sad.jpeg) </br> </br>
 
 
-Dataset:- [Sample Data](https://github.com/hrugved06/Speech-Emotion-Recognition/tree/main/dataset) </br> </br>
+### **Dataset**:- [Sample Data](https://github.com/hrugved06/Speech-Emotion-Recognition/tree/main/dataset) </br> </br>
 
 ## Model Evaluation:
 
